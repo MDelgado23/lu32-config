@@ -38,9 +38,14 @@ la configuración**.
 | `streamUrl` | URL del stream de audio. **Tiene que empezar con `https://`.** Acá se corrige un puerto rotado sin tocar la app. |
 | `newsApiBase` | Base de la API de noticias. **`https://`.** |
 | `stationLogoUrl` | Logo en los controles del sistema: pantalla bloqueada, Control Center. **`https://`.** |
+| `channels` | Los canales que se cambian deslizando en el reproductor, **en el orden de la lista**. Cada uno: `id` (corto, no se cambia: es lo que se recuerda como último canal escuchado), `name`, `streamUrl` (**`https://`**) y opcional `logoUrl` (**`https://`**; si falta se usa `stationLogoUrl`). |
 
 Un campo que no sea string, o que no empiece con `https://`, se descarta solo y
-queda el valor hardcodeado. Se pueden mandar los tres, o sólo uno.
+queda el valor hardcodeado. Se pueden mandar todos, o sólo uno.
+
+> **`streamUrl` sigue siendo obligatorio aunque exista `channels`.** Las versiones
+> de la app anteriores a los canales sólo leen `streamUrl`: si se borra, esas
+> apps vuelven al valor hardcodeado. Mantenelo igual al stream del primer canal.
 
 ### Ojo con el alcance
 
