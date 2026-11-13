@@ -38,7 +38,7 @@ la configuración**.
 | `streamUrl` | URL del stream de audio. **Tiene que empezar con `https://`.** Acá se corrige un puerto rotado sin tocar la app. |
 | `newsApiBase` | Base de la API de noticias. **`https://`.** |
 | `stationLogoUrl` | Logo en los controles del sistema: pantalla bloqueada, Control Center. **`https://`.** |
-| `channels` | Los canales que se cambian deslizando en el reproductor, **en el orden de la lista**. Cada uno: `id` (corto, no se cambia: es lo que se recuerda como último canal escuchado), `name`, `streamUrl` (**`https://`**) y opcional `logoUrl` (**`https://`**; si falta se usa `stationLogoUrl`). |
+| `channels` | Los canales que se cambian deslizando en el reproductor, **en el orden de la lista**. Cada uno: `id` (corto, no se cambia: es lo que se recuerda como último canal escuchado), `name`, `streamUrl` (**`https://`**) opcional `logoUrl` (**`https://`**; si falta se usa `stationLogoUrl`) y opcional `scheduleBrandId`: el `brand.id` de la radio en la grilla de Tadevel (`/program`), que trae AM y FM juntas. **Sin este campo el canal no muestra Programación.** AM = `68386f7e8ae825db54af7f91`, FM = `6a22faa103d10479303bd3ea`. |
 
 Un campo que no sea string, o que no empiece con `https://`, se descarta solo y
 queda el valor hardcodeado. Se pueden mandar todos, o sólo uno.

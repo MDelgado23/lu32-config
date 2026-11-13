@@ -6,12 +6,14 @@
     {
       "id": "am",
       "name": "AM",
-      "streamUrl": "https://ssl.radiosnethosting.com/index.php?port=9966"
+      "streamUrl": "https://ssl.radiosnethosting.com/index.php?port=9966",
+      "scheduleBrandId": "68386f7e8ae825db54af7f91"
     },
     {
       "id": "fm",
       "name": "FM",
-      "streamUrl": "https://ssl.radiosnethosting.com/index.php?port=9964"
+      "streamUrl": "https://ssl.radiosnethosting.com/index.php?port=9964",
+      "scheduleBrandId": "6a22faa103d10479303bd3ea"
     }
   ]
 }
