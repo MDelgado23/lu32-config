@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "phones": [
+    {
+      "id": "policia",
+      "name": "Policia",
+      "subtitle": "911",
+      "numbers": [
+        {
+          "label": "911",
+          "display": "911"
+        }
+      ]
+    },
+    {
+      "id": "bomberos",
+      "name": "Bomberos Voluntarios",
+      "subtitle": "100 (Cuartel Central: 2284 42-3849)",
+      "numbers": [
+        {
+          "label": "100",
+          "display": "100"
+        },
+        {
+          "label": "Cuartel Central",
+          "display": "2284 42-3849"
+        }
+      ]
+    },
+    {
+      "id": "emergencias-medicas",
+      "name": "Emergencias Médicas",
+      "subtitle": "107 (Conmutador Hospital: 440800)",
+      "numbers": [
+        {
+          "label": "107",
+          "display": "107"
+        },
+        {
+          "label": "Conmutador Hospital",
+          "display": "440800"
+        }
+      ]
+    },
+    {
+      "id": "vecinos-en-red",
+      "name": "Vecinos en Red",
+      "subtitle": "2284 54-4817",
+      "numbers": [
+        {
+          "label": "Vecinos en Red",
+          "display": "2284 54-4817"
+        }
+      ]
+    },
+    {
+      "id": "centro-de-monitoreo",
+      "name": "Centro de Monitoreo",
+      "subtitle": "2284 41-9016 / 41-9017",
+      "numbers": [
+        {
+          "label": "2284 41-9016",
+          "display": "2284 41-9016"
+        },
+        {
+          "label": "2284 41-9017",
+          "display": "2284 41-9017"
+        }
+      ]
+    },
+    {
+      "id": "violencia-de-genero",
+      "name": "Violencia de Género Olavarría",
+      "subtitle": "2284 58-3337",
+      "numbers": [
+        {
+          "label": "Violencia de Género",
+          "display": "2284 58-3337"
+        }
+      ]
+    },
+    {
+      "id": "atencion-municipal",
+      "name": "Atención Municipal",
+      "subtitle": "147 (MiOlava / Reclamos) Chatbot MiO 2284 22-9029",
+      "numbers": [
+        {
+          "label": "147",
+          "display": "147"
+        },
+        {
+          "label": "Chatbot MiO",
+          "display": "2284 22-9029"
+        }
+      ]
+    }
+  ]
+}
