@@ -1,0 +1,485 @@
+{
+  "version": 2,
+  "updatedAt": "2026-11-09T09:00:00-03:00",
+  "pharmacies": {
+    "alem": {
+      "name": "Farmacia Alem",
+      "address": "Rivadavia 2957",
+      "phones": [
+        {
+          "number": "2284 42-5245"
+        }
+      ]
+    },
+    "alvarez": {
+      "name": "Farmacia Álvarez",
+      "address": "Belgrano y Moreno",
+      "phones": [
+        {
+          "number": "2284 42-0560"
+        },
+        {
+          "number": "2284 42-2488"
+        },
+        {
+          "number": "2284 57-9946",
+          "mobile": true
+        }
+      ]
+    },
+    "baldini": {
+      "name": "Farmacia Baldini",
+      "address": "Urquiza 3920",
+      "phones": [
+        {
+          "number": "2284 42-7910"
+        },
+        {
+          "number": "2284 51-0004",
+          "mobile": true
+        }
+      ]
+    },
+    "betz": {
+      "name": "Farmacia Betz",
+      "address": "Pringles 2035",
+      "phones": [
+        {
+          "number": "2284 41-1690"
+        }
+      ]
+    },
+    "bueno": {
+      "name": "Farmacia Bueno",
+      "address": "Lavalle 2701 (esq. General Paz)",
+      "phones": [
+        {
+          "number": "2284 41-4651"
+        },
+        {
+          "number": "2284 62-2985",
+          "mobile": true
+        }
+      ]
+    },
+    "central": {
+      "name": "Farmacia Central",
+      "address": "Vicente López y Gral. Paz",
+      "phones": [
+        {
+          "number": "2284 42-0674"
+        }
+      ]
+    },
+    "correa": {
+      "name": "Farmacia Correa",
+      "address": "Colón 2084",
+      "phones": [
+        {
+          "number": "2284 41-2201"
+        }
+      ]
+    },
+    "disanti": {
+      "name": "Farmacia Disanti",
+      "address": "Rivadavia y Buchardo",
+      "phones": [
+        {
+          "number": "2284 42-7868"
+        },
+        {
+          "number": "2284 37-6358",
+          "mobile": true
+        }
+      ]
+    },
+    "eugui": {
+      "name": "Farmacia Eugui",
+      "address": "Necochea 2762"
+    },
+    "failla": {
+      "name": "Farmacia Failla",
+      "address": "Chacabuco y Del Valle",
+      "phones": [
+        {
+          "number": "2284 42-6716"
+        },
+        {
+          "number": "2284 27-1815"
+        },
+        {
+          "number": "2284 46-9620",
+          "mobile": true
+        }
+      ]
+    },
+    "fenix": {
+      "name": "Farmacia Fénix",
+      "address": "Vicente López 2257",
+      "phones": [
+        {
+          "number": "2284 43-0013"
+        },
+        {
+          "number": "2284 41-3444"
+        },
+        {
+          "number": "2284 72-8664",
+          "mobile": true
+        }
+      ]
+    },
+    "ferrero": {
+      "name": "Farmacia Ferrero",
+      "address": "Trabajadores 3335",
+      "phones": [
+        {
+          "number": "2284 42-5355"
+        }
+      ]
+    },
+    "gomez": {
+      "name": "Farmacia Gómez",
+      "address": "Colón 1745",
+      "phones": [
+        {
+          "number": "2284 41-1295"
+        }
+      ]
+    },
+    "la-esencia": {
+      "name": "Farmacia La Esencia",
+      "address": "Av. Pringles 2397 (esq. Bolívar)",
+      "phones": [
+        {
+          "number": "2284 41-8484"
+        },
+        {
+          "number": "2284 30-6851",
+          "mobile": true
+        }
+      ]
+    },
+    "lavin": {
+      "name": "Farmacia Lavín",
+      "address": "Pringles 4402",
+      "phones": [
+        {
+          "number": "2284 41-2170"
+        }
+      ]
+    },
+    "lujan": {
+      "name": "Farmacia Luján",
+      "address": "Av. Colón 3999 (esq. Urquiza)",
+      "phones": [
+        {
+          "number": "2284 20-2045",
+          "mobile": true
+        }
+      ]
+    },
+    "magistral": {
+      "name": "Farmacia Magistral",
+      "address": "Av. Sarmiento 2919 (esq. Moreno)",
+      "phones": [
+        {
+          "number": "2284 43-1313"
+        }
+      ]
+    },
+    "martel": {
+      "name": "Farmacia Martel",
+      "address": "España 2694 (esq. General Paz)",
+      "phones": [
+        {
+          "number": "2284 42-3530"
+        },
+        {
+          "number": "2284 44-5550"
+        }
+      ]
+    },
+    "martinez": {
+      "name": "Farmacia Martínez",
+      "address": "Colón 3172",
+      "phones": [
+        {
+          "number": "2284 44-5641"
+        }
+      ]
+    },
+    "melffi": {
+      "name": "Farmacia Melffi",
+      "address": "Necochea 2986",
+      "phones": [
+        {
+          "number": "2284 41-0011"
+        },
+        {
+          "number": "2284 41-0044"
+        }
+      ]
+    },
+    "menescaldi": {
+      "name": "Farmacia Menescaldi",
+      "address": "Sarmiento y Vicente López",
+      "phones": [
+        {
+          "number": "2284 42-4886"
+        },
+        {
+          "number": "2284 23-7349",
+          "mobile": true
+        }
+      ]
+    },
+    "modo-farma": {
+      "name": "Farmacia Modo Farma Olavarría",
+      "address": "Sarmiento 1746",
+      "phones": [
+        {
+          "number": "2284 41-5111"
+        },
+        {
+          "number": "2284 71-7277",
+          "mobile": true
+        }
+      ]
+    },
+    "mogues": {
+      "name": "Farmacia Mogues",
+      "address": "Barrio CECO Casa 262",
+      "phones": [
+        {
+          "number": "2284 45-1111"
+        }
+      ]
+    },
+    "pacheco": {
+      "name": "Farmacia Pacheco",
+      "address": "Pellegrini 3194",
+      "phones": [
+        {
+          "number": "2284 42-7294"
+        },
+        {
+          "number": "2284 21-6793",
+          "mobile": true
+        }
+      ]
+    },
+    "san-jose": {
+      "name": "Farmacia San José",
+      "address": "Pueyrredón 3166",
+      "phones": [
+        {
+          "number": "2284 42-6648"
+        }
+      ]
+    },
+    "spina": {
+      "name": "Farmacia Spina",
+      "address": "Belgrano 1955",
+      "phones": [
+        {
+          "number": "2284 57-1855",
+          "mobile": true
+        }
+      ]
+    },
+    "spinola": {
+      "name": "Farmacia Spínola",
+      "address": "Necochea 3282",
+      "phones": [
+        {
+          "number": "2284 42-2263"
+        },
+        {
+          "number": "2284 44-1419"
+        },
+        {
+          "number": "2284 71-0141",
+          "mobile": true
+        }
+      ]
+    },
+    "striebeck": {
+      "name": "Farmacia Striebeck",
+      "address": "Del Valle 3901",
+      "phones": [
+        {
+          "number": "2284 44-2515"
+        }
+      ]
+    },
+    "zapararte": {
+      "name": "Farmacia Zapararte",
+      "address": "Colón 2569",
+      "phones": [
+        {
+          "number": "2284 23-1426",
+          "mobile": true
+        }
+      ]
+    }
+  },
+  "days": {
+    "2026-11-01": [
+      "la-esencia",
+      "menescaldi",
+      "alem"
+    ],
+    "2026-11-02": [
+      "magistral",
+      "melffi",
+      "correa"
+    ],
+    "2026-11-03": [
+      "martinez",
+      "striebeck",
+      "lavin"
+    ],
+    "2026-11-04": [
+      "disanti",
+      "spinola",
+      "modo-farma"
+    ],
+    "2026-11-05": [
+      "martel",
+      "spina",
+      "mogues",
+      "central"
+    ],
+    "2026-11-06": [
+      "betz",
+      "zapararte",
+      "pacheco",
+      "eugui"
+    ],
+    "2026-11-07": [
+      "martel",
+      "san-jose",
+      "ferrero"
+    ],
+    "2026-11-08": [
+      "alvarez",
+      "striebeck",
+      "baldini"
+    ],
+    "2026-11-09": [
+      "gomez",
+      "lujan",
+      "bueno"
+    ],
+    "2026-11-10": [
+      "la-esencia",
+      "menescaldi",
+      "alem"
+    ],
+    "2026-11-11": [
+      "magistral",
+      "melffi",
+      "correa"
+    ],
+    "2026-11-12": [
+      "martinez",
+      "striebeck",
+      "lavin"
+    ],
+    "2026-11-13": [
+      "disanti",
+      "spinola",
+      "modo-farma"
+    ],
+    "2026-11-14": [
+      "martel",
+      "spina",
+      "mogues",
+      "central"
+    ],
+    "2026-11-15": [
+      "zapararte",
+      "betz",
+      "eugui",
+      "pacheco"
+    ],
+    "2026-11-16": [
+      "fenix",
+      "ferrero",
+      "san-jose"
+    ],
+    "2026-11-17": [
+      "baldini",
+      "failla",
+      "alvarez"
+    ],
+    "2026-11-18": [
+      "bueno",
+      "lujan",
+      "gomez"
+    ],
+    "2026-11-19": [
+      "menescaldi",
+      "la-esencia",
+      "alem"
+    ],
+    "2026-11-20": [
+      "correa",
+      "melffi",
+      "ferrero"
+    ],
+    "2026-11-21": [
+      "zapararte",
+      "striebeck",
+      "martinez"
+    ],
+    "2026-11-22": [
+      "spinola",
+      "disanti",
+      "modo-farma"
+    ],
+    "2026-11-23": [
+      "spina",
+      "mogues",
+      "martel",
+      "central"
+    ],
+    "2026-11-24": [
+      "eugui",
+      "zapararte",
+      "pacheco",
+      "betz"
+    ],
+    "2026-11-25": [
+      "ferrero",
+      "san-jose",
+      "fenix"
+    ],
+    "2026-11-26": [
+      "baldini",
+      "failla",
+      "alvarez"
+    ],
+    "2026-11-27": [
+      "gomez",
+      "lujan",
+      "bueno"
+    ],
+    "2026-11-28": [
+      "la-esencia",
+      "menescaldi",
+      "alem"
+    ],
+    "2026-11-29": [
+      "correa",
+      "melffi",
+      "magistral"
+    ],
+    "2026-11-30": [
+      "martinez",
+      "striebeck",
+      "lavin"
+    ]
+  }
+}
