@@ -9,15 +9,8 @@
       "address": "Ruta 226 Km. 292 – Olavarría"
     },
     {
-      "id": "lu32",
-      "pos": 20,
-      "name": "LU32 Radio",
-      "logoUrl": "https://i.ibb.co/VWR11c8H/logo-am-square.png",
-      "website": "https://lu32.com.ar"
-    },
-    {
       "id": "area226",
-      "pos": 30,
+      "pos": 20,
       "name": "Area 226",
       "logoUrl": "https://i.ibb.co/JjSWVzCt/area226.png",
       "website": "https://lemont.com.ar/",
@@ -26,7 +19,7 @@
     },
     {
       "id": "cavellaneda",
-      "pos": 40,
+      "pos": 30,
       "name": "Cementos Avellaneda",
       "logoUrl": "https://i.ibb.co/wNtzxPVk/cementos-avellaneda.png",
       "website": "https://cementosavellaneda.com.ar/",
@@ -36,7 +29,7 @@
     },
     {
       "id": "el-hangar",
-      "pos": 50,
+      "pos": 40,
       "name": "El Hangar",
       "logoUrl": "https://raw.githubusercontent.com/MDelgado23/lu32-config/master/imagenes/sponsors/el-hangar-372a4648.webp",
       "instagram": "@elhangarmateriales",
