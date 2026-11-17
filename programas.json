@@ -1,5 +1,405 @@
 {
   "version": 1,
-  "programs": {},
-  "slots": []
+  "programs": {
+    "aqui-estamos-manana": {
+      "name": "Aquí Estamos Mañana",
+      "channel": "am",
+      "imageUrl": "https://flex-assets.tadevel-cdn.com/69959a431e7e6768e896bf6b/720.webp"
+    },
+    "aqui-estamos-manana-fm": {
+      "name": "Aquí Estamos Mañana",
+      "channel": "fm",
+      "imageUrl": "https://flex-assets.tadevel-cdn.com/69959a431e7e6768e896bf6b/720.webp"
+    },
+    "dia-de-campo": {
+      "name": "Día de Campo",
+      "channel": "am",
+      "imageUrl": "https://flex-assets.tadevel-cdn.com/69866ac9d28f318b6cd929a9/720.webp"
+    },
+    "informandonos-weekend-domingo": {
+      "name": "Informándonos Weekend domingo",
+      "channel": "am",
+      "imageUrl": "https://flex-assets.tadevel-cdn.com/68a4ed0d2b173f6e796ec897/720.webp"
+    },
+    "entre-amigos": {
+      "name": "Entre Amigos",
+      "channel": "am",
+      "imageUrl": "https://flex-assets.tadevel-cdn.com/68a4a3e680da9de1b2569bd4/720.webp"
+    },
+    "enfocados": {
+      "name": "Enfocados",
+      "channel": "am",
+      "imageUrl": "https://flex-assets.tadevel-cdn.com/68a4f22d2b173f6e796f358d/720.webp"
+    },
+    "de-cara-al-domingo": {
+      "name": "De Cara al Domingo",
+      "channel": "am",
+      "imageUrl": "https://flex-assets.tadevel-cdn.com/68a4ed892b173f6e796ed2f4/720.webp"
+    },
+    "en-buena-compania": {
+      "name": "En Buena Compañía",
+      "channel": "fm",
+      "imageUrl": "https://flex-assets.tadevel-cdn.com/6ad6462fe22ee8014a655e45/720.webp"
+    },
+    "sintonia-agropecuaria": {
+      "name": "Sintonía Agropecuaria",
+      "channel": "am",
+      "imageUrl": "https://flex-assets.tadevel-cdn.com/69866a92d28f318b6cd91ae8/720.webp"
+    },
+    "60-minutos": {
+      "name": "60 Minutos",
+      "channel": "am",
+      "imageUrl": "https://flex-assets.tadevel-cdn.com/68ac91e862c0823657a81aa2/720.webp"
+    },
+    "chamameceando-en-olavarria": {
+      "name": "Chamameceando en Olavarría",
+      "channel": "am",
+      "imageUrl": "https://flex-assets.tadevel-cdn.com/68a4f1332b173f6e796f2209/720.webp"
+    },
+    "60-minutos-fm": {
+      "name": "60 Minutos",
+      "channel": "fm",
+      "imageUrl": "https://flex-assets.tadevel-cdn.com/68ac91e862c0823657a81aa2/720.webp"
+    },
+    "1160-competicion": {
+      "name": "1160 Competición",
+      "channel": "am",
+      "imageUrl": "https://flex-assets.tadevel-cdn.com/68ac958c62c0823657a8a338/720.webp"
+    },
+    "1160-competicion-fm": {
+      "name": "1160 Competición",
+      "channel": "fm",
+      "imageUrl": "https://flex-assets.tadevel-cdn.com/68ac958c62c0823657a8a338/720.webp"
+    },
+    "vinilos": {
+      "name": "Vinilos",
+      "channel": "am",
+      "imageUrl": "https://flex-assets.tadevel-cdn.com/68a4a04a80da9de1b256478e/720.webp"
+    },
+    "vivo-la-tarde": {
+      "name": "Vivo la Tarde",
+      "channel": "am",
+      "imageUrl": "https://flex-assets.tadevel-cdn.com/68a4a35780da9de1b256912a/720.webp"
+    },
+    "deja-vu": {
+      "name": "Deja Vu",
+      "channel": "fm",
+      "imageUrl": "https://flex-assets.tadevel-cdn.com/6ad64603e22ee8014a654fcb/720.webp"
+    },
+    "aqui-estamos-tarde": {
+      "name": "Aquí Estamos Tarde",
+      "channel": "am",
+      "imageUrl": "https://flex-assets.tadevel-cdn.com/69ab3561333df52be0ab4181/720.webp"
+    },
+    "aqui-estamos-tarde-fm": {
+      "name": "Aquí Estamos Tarde",
+      "channel": "fm",
+      "imageUrl": "https://flex-assets.tadevel-cdn.com/69ab3561333df52be0ab4181/720.webp"
+    },
+    "informandonos-weekend-sabados": {
+      "name": "Informándonos Weekend sábados",
+      "channel": "am",
+      "imageUrl": "https://flex-assets.tadevel-cdn.com/68a4eca12b173f6e796ebfa9/720.webp"
+    },
+    "entre-rimas-y-bordonas": {
+      "name": "Entre Rimas y Bordonas",
+      "channel": "am",
+      "imageUrl": "https://flex-assets.tadevel-cdn.com/68a4a4ad80da9de1b256af5c/720.webp"
+    },
+    "lo-mejor-del-dia": {
+      "name": "Lo mejor del día",
+      "channel": "am"
+    }
+  },
+  "slots": [
+    {
+      "program": "aqui-estamos-manana",
+      "weekDays": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "start": "06:00",
+      "end": "09:00"
+    },
+    {
+      "program": "aqui-estamos-manana-fm",
+      "weekDays": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "start": "06:00",
+      "end": "09:00"
+    },
+    {
+      "program": "dia-de-campo",
+      "weekDays": [
+        6
+      ],
+      "start": "07:00",
+      "end": "09:00"
+    },
+    {
+      "program": "informandonos-weekend-domingo",
+      "weekDays": [
+        7
+      ],
+      "start": "07:00",
+      "end": "09:00"
+    },
+    {
+      "program": "entre-amigos",
+      "weekDays": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "start": "09:00",
+      "end": "12:30"
+    },
+    {
+      "program": "enfocados",
+      "weekDays": [
+        6
+      ],
+      "start": "09:00",
+      "end": "13:00"
+    },
+    {
+      "program": "de-cara-al-domingo",
+      "weekDays": [
+        7
+      ],
+      "start": "09:00",
+      "end": "13:00"
+    },
+    {
+      "program": "en-buena-compania",
+      "weekDays": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "start": "09:00",
+      "end": "13:00"
+    },
+    {
+      "program": "sintonia-agropecuaria",
+      "weekDays": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "start": "12:30",
+      "end": "13:00"
+    },
+    {
+      "program": "60-minutos",
+      "weekDays": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "start": "13:00",
+      "end": "14:00"
+    },
+    {
+      "program": "chamameceando-en-olavarria",
+      "weekDays": [
+        6
+      ],
+      "start": "13:00",
+      "end": "15:00"
+    },
+    {
+      "program": "60-minutos-fm",
+      "weekDays": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "start": "13:00",
+      "end": "14:00"
+    },
+    {
+      "program": "1160-competicion",
+      "weekDays": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "start": "14:00",
+      "end": "15:00"
+    },
+    {
+      "program": "1160-competicion",
+      "weekDays": [
+        6
+      ],
+      "start": "15:00",
+      "end": "17:00"
+    },
+    {
+      "program": "1160-competicion",
+      "weekDays": [
+        7
+      ],
+      "start": "13:00",
+      "end": "17:00"
+    },
+    {
+      "program": "1160-competicion-fm",
+      "weekDays": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "start": "14:00",
+      "end": "15:00"
+    },
+    {
+      "program": "1160-competicion-fm",
+      "weekDays": [
+        6
+      ],
+      "start": "15:00",
+      "end": "17:00"
+    },
+    {
+      "program": "1160-competicion-fm",
+      "weekDays": [
+        7
+      ],
+      "start": "13:00",
+      "end": "17:00"
+    },
+    {
+      "program": "vinilos",
+      "weekDays": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "start": "15:00",
+      "end": "16:00"
+    },
+    {
+      "program": "vinilos",
+      "weekDays": [
+        6
+      ],
+      "start": "17:00",
+      "end": "19:00"
+    },
+    {
+      "program": "vivo-la-tarde",
+      "weekDays": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "start": "16:00",
+      "end": "18:00"
+    },
+    {
+      "program": "deja-vu",
+      "weekDays": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "start": "16:00",
+      "end": "18:00"
+    },
+    {
+      "program": "aqui-estamos-tarde",
+      "weekDays": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "start": "18:00",
+      "end": "21:00"
+    },
+    {
+      "program": "aqui-estamos-tarde-fm",
+      "weekDays": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "start": "18:00",
+      "end": "21:00"
+    },
+    {
+      "program": "informandonos-weekend-sabados",
+      "weekDays": [
+        6
+      ],
+      "start": "19:00",
+      "end": "21:00"
+    },
+    {
+      "program": "entre-rimas-y-bordonas",
+      "weekDays": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "start": "21:00",
+      "end": "23:00"
+    },
+    {
+      "program": "lo-mejor-del-dia",
+      "weekDays": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "start": "23:00",
+      "end": "00:00"
+    },
+    {
+      "program": "lo-mejor-del-dia",
+      "weekDays": [
+        6,
+        7
+      ],
+      "start": "06:00",
+      "end": "07:00"
+    }
+  ]
 }
