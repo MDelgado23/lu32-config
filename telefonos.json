@@ -93,6 +93,18 @@
           "display": "2284 22-9029"
         }
       ]
+    },
+    {
+      "id": "martin-delgado",
+      "name": "Martin Delgado",
+      "subtitle": "",
+      "numbers": [
+        {
+          "label": "Programador",
+          "display": "2364264688",
+          "mobile": true
+        }
+      ]
     }
   ]
 }
