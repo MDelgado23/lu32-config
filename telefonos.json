@@ -2,6 +2,18 @@
   "version": 1,
   "phones": [
     {
+      "id": "martin-delgado",
+      "name": "Martin Delgado",
+      "subtitle": "",
+      "numbers": [
+        {
+          "label": "Programador",
+          "display": "2364264688",
+          "mobile": true
+        }
+      ]
+    },
+    {
       "id": "policia",
       "name": "Policia",
       "subtitle": "911",
@@ -91,18 +103,6 @@
         {
           "label": "Chatbot MiO",
           "display": "2284 22-9029"
-        }
-      ]
-    },
-    {
-      "id": "martin-delgado",
-      "name": "Martin Delgado",
-      "subtitle": "",
-      "numbers": [
-        {
-          "label": "Programador",
-          "display": "2364264688",
-          "mobile": true
         }
       ]
     }
