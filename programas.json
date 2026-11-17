@@ -400,6 +400,14 @@
       ],
       "start": "06:00",
       "end": "07:00"
+    },
+    {
+      "program": "aqui-estamos-manana-fm",
+      "weekDays": [
+        6
+      ],
+      "start": "06:00",
+      "end": "09:00"
     }
   ]
 }
